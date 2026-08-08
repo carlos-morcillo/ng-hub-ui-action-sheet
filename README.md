@@ -16,11 +16,11 @@
 
 ## Documentation and Live Examples
 
-This package is part of [Hub UI](https://hubui.dev/), a collection of Angular component libraries for standalone apps.
+This package is part of [Hub UI](https://hubui.dev/en/), a collection of Angular component libraries for standalone apps.
 
-- Docs: https://hubui.dev/action-sheet/overview/
-- Live examples: https://hubui.dev/action-sheet/examples/
-- Hub UI: https://hubui.dev/
+- Docs: https://hubui.dev/en/action-sheet/overview/
+- Live examples: https://hubui.dev/en/action-sheet/examples/
+- Hub UI: https://hubui.dev/en/
 
 > **Note:** Documentation pages and live examples are being prepared while the library is in development.
 

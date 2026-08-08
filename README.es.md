@@ -16,11 +16,11 @@
 
 ## Documentación y ejemplos en vivo
 
-Este paquete forma parte de [Hub UI](https://hubui.dev/), una colección de bibliotecas de componentes Angular para aplicaciones standalone.
+Este paquete forma parte de [Hub UI](https://hubui.dev/en/), una colección de bibliotecas de componentes Angular para aplicaciones standalone.
 
-- Documentación: https://hubui.dev/action-sheet/overview/
-- Ejemplos en vivo: https://hubui.dev/action-sheet/examples/
-- Hub UI: https://hubui.dev/
+- Documentación: https://hubui.dev/en/action-sheet/overview/
+- Ejemplos en vivo: https://hubui.dev/en/action-sheet/examples/
+- Hub UI: https://hubui.dev/en/
 
 > **Nota:** Las páginas de documentación y los ejemplos en vivo se están preparando mientras la biblioteca está en desarrollo.
 
