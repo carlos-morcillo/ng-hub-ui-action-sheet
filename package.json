@@ -1,6 +1,6 @@
 {
   "name": "ng-hub-ui-action-sheet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Modern, accessible, mobile-first action sheet components for Angular. Part of the Hub UI ecosystem. Currently in pre-release development.",
   "keywords": [
     "angular",
